@@ -1,0 +1,15 @@
+Python CLI Documentation
+Introduction:
+This guide explains how to use Python in the Command-Line Interface (CLI). Python allows you to run code directly from the terminal or command prompt.
+
+1. Opening the Terminal:
+Open your terminal or command prompt.
+
+2. Launching Python Interpreter:
+Type py and press Enter. This opens the Python interactive shell.
+
+3. Executing Python Code:
+Enter Python code directly, e.g., name = "YOUR_NAME" and print(name).
+
+4. Exiting the Python Environment:
+Type quit() to exit the Python environment.
